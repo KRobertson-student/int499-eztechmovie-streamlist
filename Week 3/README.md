@@ -4,7 +4,7 @@ This folder contains a self-contained React cart application for the Week 3 assi
 
 ## Live Page
 
-[Open the EZ Tech Cart app](https://krobertson-student.github.io/int499-eztechmovie-streamlist/)
+[Open the EZ Tech Cart app](https://raw.githack.com/KRobertson-student/int499-eztechmovie-streamlist/main/Week%203/dist/index.html)
 
 ## What It Includes
 
