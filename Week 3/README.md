@@ -2,6 +2,10 @@
 
 This folder contains a self-contained React cart application for the Week 3 assignment.
 
+## Live Page
+
+[Open the EZ Tech Cart app](https://krobertson-student.github.io/int499-eztechmovie-streamlist/)
+
 ## What It Includes
 
 - Navigation bar with Subscriptions and Cart sections
