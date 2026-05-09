@@ -44,3 +44,20 @@ Key Week 2 items include:
 - Account, watchlist, and subscription status planning
 - Credit card security and ethics planning
 - Project status report
+
+### Week 3: React Cart System and CSS Implementation
+
+The Week 3 deliverable turns the cart design into a working React application with a subscription catalog, accessory products, cart controls, local storage persistence, and responsive CSS styling.
+
+Key Week 3 items include:
+
+- React cart application in the [Week 3 folder](Week%203/)
+- Working live preview: [Open the EZ Tech Cart app](https://htmlpreview.github.io/?https://github.com/KRobertson-student/int499-eztechmovie-streamlist/blob/main/Week%203/dist/index.html)
+- Navigation bar with Subscriptions and Cart sections
+- Cart item count displayed in the navigation bar
+- One-subscription-at-a-time rule with a visible warning message
+- Accessories that can be added multiple times
+- Cart summary with quantity controls, remove buttons, and total pricing
+- Local storage persistence so cart contents remain after reload
+- Responsive custom CSS for usability and presentation
+- Automated tests for cart logic and UI behavior
